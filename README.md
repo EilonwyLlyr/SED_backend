@@ -51,7 +51,7 @@ Recommended to use a unix based OS
     - `java -jar SmartEyeDrops-0.1.jar &` to run in the background
 - To stop either "ctrl + c" or find the PID and terminate it.
 
-## Endpoints
+## Endpoint Examples
 
 curl -X POST -H "Content-Type: application/json" -d '{"email":"{email}","password":"{password}","firstName":"{firstname}","lastName":"{lastname}"}' http://{host}:{port}/user/register
 

@@ -24,7 +24,7 @@ Recommended to use a unix based OS
 
 ## LSTM API
 - Have python version:3.9.x and pip version:20.3.x
-- install the following commands to install the packages required to run the API:
+- Run the following commands to install the packages required to run the API:
     - `pip install keras`
     - `pip install tensorflow`
     - `pip install sklearn`
